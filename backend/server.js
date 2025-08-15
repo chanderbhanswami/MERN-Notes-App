@@ -52,6 +52,10 @@ app.get('/health', (req, res) => {
 // Error Handler
 app.use(errorHandler);
 
+app.get('/', (req, res) => {
+  res.send('API is running...');
+});
+
 
 // Handle 404 for unmatched routes (Express 5+ safe)
 app.use((req, res) => {
