@@ -1,0 +1,19 @@
+
+# robots.txt for MERN Notes App
+User-agent: *
+Disallow: /api/
+Allow: /
+
+# Block sensitive files and folders
+Disallow: /private/
+Disallow: /config/
+Disallow: /backend/
+
+# Crawl-delay for all bots
+Crawl-delay: 5
+
+# Sitemap reference
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Host
+Host: yourdomain.com
