@@ -36,7 +36,7 @@ mern-notes-app/
 
 1. Clone the repository:
 	```bash
-	git clone https://github.com/yourusername/mern-notes-app.git
+	git clone https://github.com/chanderbhanswami/mern-notes-app.git
 	cd mern-notes-app
 	```
 2. Install dependencies for both frontend and backend:
@@ -61,8 +61,8 @@ mern-notes-app/
 See [backend/README.md](backend/README.md) for API endpoints and usage.
 
 ## Developer Info
-- **Author:** Your Name (your.email@example.com)
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Author:** Chanderbhan (chanderbhanswami29@gmail.com)
+- **GitHub:** [chanderbhanswami](https://github.com/chanderbhanswami)
 
 ## Contact
 For questions, suggestions, or support, please open an issue or contact the developer at your.email@example.com.

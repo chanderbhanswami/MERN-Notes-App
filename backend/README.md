@@ -39,8 +39,8 @@ This is the backend (API server) for the MERN Notes App. It is built with Node.j
 - Deploy to [Render](https://render.com/) by connecting your GitHub repo and setting environment variables.
 
 ## Developer Info
-- **Author:** Your Name (your.email@example.com)
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Author:** Chanderbhan (chanderbhanswami29@gmail.com)
+- **GitHub:** [chanderbhanswami](https://github.com/chanderbhanswami)
 
 ## License
 

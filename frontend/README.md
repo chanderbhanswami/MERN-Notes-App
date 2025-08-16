@@ -26,8 +26,8 @@ This is the frontend (React client) for the MERN Notes App. It is built with Rea
 - Deploy to [Vercel](https://vercel.com/) by connecting your GitHub repo and following the setup instructions.
 
 ## Developer Info
-- **Author:** Your Name (your.email@example.com)
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Author:** Chanderbhan (chanderbhanswami29@gmail.com)
+- **GitHub:** [chanderbhanswami](https://github.com/chanderbhanswami)
 
 ## License
 
